@@ -1,0 +1,19 @@
+{
+	"category" : "T411-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"username",
+		"gender",
+		"age",
+		"avatar",
+		"downloaded",
+		"uploaded" ],
+	"name" : "T4User",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

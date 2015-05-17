@@ -1,0 +1,14 @@
+{
+	"category" : "T411",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"token" ],
+	"name" : "T4Api",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

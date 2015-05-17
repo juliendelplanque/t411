@@ -1,0 +1,2 @@
+torrents
+details: anId

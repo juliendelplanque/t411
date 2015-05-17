@@ -1,0 +1,16 @@
+{
+	"category" : "T411-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"categoryId",
+		"offset",
+		"limit" ],
+	"name" : "T4SearchQuery",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

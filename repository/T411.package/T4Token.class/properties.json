@@ -1,0 +1,15 @@
+{
+	"category" : "T411-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"token",
+		"uid" ],
+	"name" : "T4Token",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

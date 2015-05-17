@@ -1,0 +1,14 @@
+{
+	"category" : "T411-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"categories" ],
+	"name" : "T4CategoriesTree",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

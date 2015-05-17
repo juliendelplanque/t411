@@ -1,0 +1,14 @@
+{
+	"category" : "T411",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"errorCode" ],
+	"name" : "T4Error",
+	"pools" : [
+		 ],
+	"super" : "Exception",
+	"type" : "normal" }
