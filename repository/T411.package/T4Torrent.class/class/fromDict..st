@@ -1,6 +1,7 @@
 instance creation
 fromDict: aDictionnary
 	^self new
+		id: (aDictionnary at: 'id');
 		torrentName: (aDictionnary at: 'name');
 		categoryId: (aDictionnary at: 'category') asInteger;
 		seeders: (aDictionnary at: 'seeders') asInteger;

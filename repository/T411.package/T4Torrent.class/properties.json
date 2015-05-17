@@ -19,7 +19,8 @@
 		"categoryImage",
 		"username",
 		"privacy",
-		"category" ],
+		"category",
+		"id" ],
 	"name" : "T4Torrent",
 	"pools" : [
 		 ],
