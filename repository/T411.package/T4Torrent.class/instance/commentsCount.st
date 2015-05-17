@@ -1,0 +1,3 @@
+accessing
+commentsCount
+	^ commentsCount
