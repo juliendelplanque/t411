@@ -1,3 +1,3 @@
 accessing
-category: anInteger 
-	categoryId := anInteger
+category: aString
+	category := aString

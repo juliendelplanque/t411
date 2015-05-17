@@ -18,7 +18,8 @@
 		"ownerId",
 		"categoryImage",
 		"username",
-		"privacy" ],
+		"privacy",
+		"category" ],
 	"name" : "T4Torrent",
 	"pools" : [
 		 ],

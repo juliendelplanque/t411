@@ -1,3 +1,3 @@
 accessing
-owner: anInteger 
+ownerId: anInteger 
 	ownerId := anInteger
