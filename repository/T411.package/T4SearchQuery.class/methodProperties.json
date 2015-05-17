@@ -1,10 +1,14 @@
 {
 	"class" : {
-		 },
+		"queryString:" : "JulienDelplanque 5/17/2015 22:26",
+		"queryString:categoryId:" : "JulienDelplanque 5/17/2015 22:26" },
 	"instance" : {
 		"categoryId" : "JulienDelplanque 5/17/2015 22:12",
 		"categoryId:" : "JulienDelplanque 5/17/2015 22:12",
 		"limit" : "JulienDelplanque 5/17/2015 22:12",
 		"limit:" : "JulienDelplanque 5/17/2015 22:12",
 		"offset" : "JulienDelplanque 5/17/2015 22:12",
-		"offset:" : "JulienDelplanque 5/17/2015 22:12" } }
+		"offset:" : "JulienDelplanque 5/17/2015 22:12",
+		"queryParams" : "JulienDelplanque 5/17/2015 22:35",
+		"queryString" : "JulienDelplanque 5/17/2015 22:24",
+		"queryString:" : "JulienDelplanque 5/17/2015 22:24" } }

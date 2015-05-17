@@ -1,0 +1,26 @@
+{
+	"category" : "T411-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"torrentName",
+		"categoryId",
+		"seeders",
+		"leechers",
+		"commentsCount",
+		"isVerified",
+		"addedDate",
+		"size",
+		"timeCompleted",
+		"ownerId",
+		"categoryImage",
+		"username",
+		"privacy" ],
+	"name" : "T4Torrent",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
