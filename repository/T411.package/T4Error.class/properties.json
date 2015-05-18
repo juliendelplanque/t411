@@ -3,12 +3,12 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
+		"ErrorStrings" ],
 	"commentStamp" : "",
 	"instvars" : [
 		"errorCode" ],
 	"name" : "T4Error",
 	"pools" : [
 		 ],
-	"super" : "Exception",
+	"super" : "Error",
 	"type" : "normal" }

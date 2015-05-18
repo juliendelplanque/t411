@@ -5,4 +5,4 @@ fromJSON: aString
 	^ [ self new
 		uid: (dict at: 'uid');
 		token: (dict at: 'token');
-		yourself ] on: KeyNotFound do: [ (T4Error fromErrorCode: (dict at: 'code')) signal ]
+		yourself ] on: KeyNotFound do: [ T4Error signalForErrorCode: (dict at: 'code') ]
