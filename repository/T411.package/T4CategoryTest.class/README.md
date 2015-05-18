@@ -1,0 +1,1 @@
+A T4CategoryTest is a test class for testing the behavior of T4Category
