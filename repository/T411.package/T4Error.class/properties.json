@@ -1,10 +1,10 @@
 {
-	"category" : "T411",
+	"category" : "T411-Core",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		"ErrorStrings" ],
-	"commentStamp" : "",
+	"commentStamp" : "JulienDelplanque 5/18/2015 10:57",
 	"instvars" : [
 		"errorCode" ],
 	"name" : "T4Error",
