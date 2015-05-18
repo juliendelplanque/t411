@@ -20,7 +20,8 @@
 		"username",
 		"privacy",
 		"category",
-		"id" ],
+		"id",
+		"torrentSize" ],
 	"name" : "T4Torrent",
 	"pools" : [
 		 ],

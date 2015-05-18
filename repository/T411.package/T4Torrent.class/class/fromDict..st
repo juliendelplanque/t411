@@ -9,7 +9,7 @@ fromDict: aDictionnary
 		commentsCount: (aDictionnary at: 'comments') asInteger;
 		verified: (aDictionnary at: 'isVerified') asInteger;
 		addedDate: (DateAndTime fromString: (aDictionnary at: 'added'));
-		size: (aDictionnary at: 'size') asInteger;
+		torrentSize: (aDictionnary at: 'size') asInteger;
 		timeCompleted: (aDictionnary at: 'times_completed') asInteger;
 		ownerId: (aDictionnary at: 'owner') asInteger;
 		category: (aDictionnary at: 'categoryname');
