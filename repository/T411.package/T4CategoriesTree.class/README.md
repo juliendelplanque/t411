@@ -1,0 +1,1 @@
+I am a T411 categories tree. I contain a a list of T4Category.
