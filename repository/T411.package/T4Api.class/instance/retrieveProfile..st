@@ -1,4 +1,4 @@
-as yet unclassified
+users
 retrieveProfile: id
 	| response |
 	response := ZnClient new
