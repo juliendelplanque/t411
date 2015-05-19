@@ -3,7 +3,7 @@ search: query
 	| client response |
 	client := ZnClient new
 						http;
-						host: 'api.t411.io';
+						host: self class apiDomain;
 						path: '/torrents/search/',query queryString;
 						headerAt: 'Authorization' put: token token.
 	query queryParams keys

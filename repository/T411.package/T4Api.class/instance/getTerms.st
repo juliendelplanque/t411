@@ -4,7 +4,7 @@ getTerms
 	| response json collected result |
 	response := ZnClient new
 						http;
-						host: 'api.t411.io';
+						host: self class apiDomain;
 						path: '/terms/tree';
 						headerAt: 'Authorization' put: token token;
 						get.

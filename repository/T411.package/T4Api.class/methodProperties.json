@@ -1,16 +1,16 @@
 {
 	"class" : {
-		 },
+		"apiDomain" : "JulienDelplanque 5/19/2015 13:53" },
 	"instance" : {
-		"details:" : "JulienDelplanque 5/18/2015 13:50",
-		"download:" : "JulienDelplanque 5/18/2015 21:27",
+		"details:" : "JulienDelplanque 5/19/2015 13:54",
+		"download:" : "JulienDelplanque 5/19/2015 13:54",
 		"download:in:" : "JulienDelplanque 5/18/2015 21:30",
 		"download:in:named:" : "JulienDelplanque 5/18/2015 21:31",
-		"getCategoriesTree" : "JulienDelplanque 5/17/2015 21:29",
-		"getTerms" : "JulienDelplanque 5/18/2015 15:51",
-		"me" : "JulienDelplanque 5/18/2015 10:59",
+		"getCategoriesTree" : "JulienDelplanque 5/19/2015 13:55",
+		"getTerms" : "JulienDelplanque 5/19/2015 13:55",
+		"me" : "JulienDelplanque 5/19/2015 13:49",
 		"retrieveAndSetTokenForUser:password:" : "JulienDelplanque 5/17/2015 17:14",
-		"retrieveProfile:" : "JulienDelplanque 5/17/2015 20:09",
-		"retrieveTokenForUser:password:" : "JulienDelplanque 5/17/2015 17:06",
-		"search:" : "JulienDelplanque 5/17/2015 23:12",
+		"retrieveProfile:" : "JulienDelplanque 5/19/2015 13:55",
+		"retrieveTokenForUser:password:" : "JulienDelplanque 5/19/2015 13:55",
+		"search:" : "JulienDelplanque 5/19/2015 13:55",
 		"setToken:" : "JulienDelplanque 5/17/2015 17:13" } }

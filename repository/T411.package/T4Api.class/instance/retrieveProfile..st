@@ -3,7 +3,7 @@ retrieveProfile: id
 	| response |
 	response := ZnClient new
 						http;
-						host: 'api.t411.io';
+						host: self class apiDomain;
 						path: 'users/profile/',id asString;
 						headerAt: 'Authorization' put: token token;
 						get.

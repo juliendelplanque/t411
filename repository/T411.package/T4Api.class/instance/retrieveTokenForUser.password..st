@@ -6,5 +6,5 @@ retrieveTokenForUser: username password: password
 								at: 'password' put: password;
 								contentType: ZnMimeType applicationFormUrlEncoded .
 
-	contents := (ZnEasy post: 'http://api.t411.io/auth' data: applicationForm) contents.
+	contents := (ZnEasy post: 'http://',self class apiDomain,'/auth' data: applicationForm) contents.
 	^T4Token fromJSON: contents

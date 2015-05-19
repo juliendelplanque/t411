@@ -3,7 +3,7 @@ getCategoriesTree
 	| response |
 	response := ZnClient new
 						http;
-						host: 'api.t411.io';
+						host: self class apiDomain;
 						path: 'categories/tree';
 						headerAt: 'Authorization' put: token token;
 						get.
