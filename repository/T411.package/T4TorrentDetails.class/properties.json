@@ -14,9 +14,9 @@
 		"categoryId",
 		"category",
 		"categoryImage",
-		"username",
 		"ownerId",
-		"privacy" ],
+		"privacy",
+		"userName" ],
 	"name" : "T4TorrentDetails",
 	"pools" : [
 		 ],

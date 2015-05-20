@@ -9,7 +9,7 @@ fromJSON: aString
 		categoryId: (json at: 'category') asInteger;
 		category: (json at: 'categoryname');
 		categoryImage: (json at: 'categoryimage');
-		username: (json at: 'username');
+		userName: (json at: 'username');
 		ownerId: (json at: 'owner') asInteger;
 		description: (json at: 'description');
 		privacy: (json at: 'privacy');
