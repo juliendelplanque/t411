@@ -1,13 +1,12 @@
 {
 	"class" : {
-		"fromJSONIdName:" : "JulienDelplanque 5/18/2015 13:29",
 		"withId:name:" : "JulienDelplanque 5/18/2015 15:35",
-		"withName:value:" : "JulienDelplanque 5/18/2015 13:30" },
+		"withName:value:" : "JulienDelplanque 5/20/2015 12:42" },
 	"instance" : {
 		"id" : "JulienDelplanque 5/18/2015 13:27",
 		"id:" : "JulienDelplanque 5/18/2015 13:27",
 		"printOn:" : "JulienDelplanque 5/18/2015 13:48",
 		"termName" : "JulienDelplanque 5/18/2015 13:27",
 		"termName:" : "JulienDelplanque 5/18/2015 13:27",
-		"value1" : "JulienDelplanque 5/18/2015 13:27",
-		"value:" : "JulienDelplanque 5/18/2015 13:27" } }
+		"termValue" : "JulienDelplanque 5/20/2015 12:41",
+		"termValue:" : "JulienDelplanque 5/20/2015 12:41" } }

@@ -8,7 +8,7 @@
 	"instvars" : [
 		"id",
 		"termName",
-		"value" ],
+		"termValue" ],
 	"name" : "T4Term",
 	"pools" : [
 		 ],
