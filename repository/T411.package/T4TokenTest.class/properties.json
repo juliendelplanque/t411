@@ -1,0 +1,14 @@
+{
+	"category" : "T411-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "T4TokenTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

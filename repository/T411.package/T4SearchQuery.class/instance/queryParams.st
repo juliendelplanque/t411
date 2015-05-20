@@ -1,4 +1,4 @@
-as yet unclassified
+query parameters
 queryParams
 	"Returns a dictionnary that contains all options initialized."
 	| dict |
