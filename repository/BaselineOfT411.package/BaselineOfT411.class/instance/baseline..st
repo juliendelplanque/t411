@@ -10,4 +10,10 @@ baseline: spec
 					versionString: #stable;
 					repository: 'http://mc.stfx.eu/ZincHTTPComponents'
 				 ].
+		spec project: 'NeoJSON' with: [ 
+			spec
+				className: #ConfigurationOfNeoJSON;
+				versionString: #stable;
+				repository: 'http://mc.stfx.eu/Neo'
+			].
 		spec package: #'T411' ].
